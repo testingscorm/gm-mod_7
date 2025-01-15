@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Tj9tc3ssqO" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">मॉड्यूल 7-प्राइमरी और सेकेंडरी पैकेजिंग</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="मॉड्यूल_7-प्राइमरी_और_सेकेंडरी_पैकेजिंग_ORG">
+    <organization identifier="मॉड्यूल_7-प्राइमरी_और_सेकेंडरी_पैकेजिंग_ORG">
+      <title>मॉड्यूल 7-प्राइमरी और सेकेंडरी पैकेजिंग</title>
+      <item identifier="मॉड्यूल_5:_
+कच्चे_माल_की_जानकारी_-_
+माइनर_सामग्री_और_पाम_ऑइल_SCO" isvisible="true" identifierref="__6Tj9tc3ssqO_RES">
+        <title>मॉड्यूल 7-प्राइमरी और सेकेंडरी पैकेजिंग</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Tj9tc3ssqO_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6LQh98WDfml.png" />
+      <file href="mobile/5cKNShgXJya.png" />
+      <file href="mobile/6VII1yzDDY1.png" />
+      <file href="mobile/6fk7eiFqmPY.png" />
+      <file href="mobile/65Nsoy4YCVW.png" />
+      <file href="mobile/6OTKD5yz1oZ.png" />
+      <file href="story_content/video_5yLaWApHRYA_26_40_1920x1080.mp4" />
+      <file href="mobile/poster_5dZAEFaZFWQ_video_5yLaWApHRYA_26_40_1920x1080.jpg" />
+      <file href="mobile/5nDP77avjFE.png" />
+      <file href="mobile/5W7mSB8fn6k.png" />
+      <file href="mobile/68po8yulB5V.png" />
+      <file href="mobile/5bXflO8A1an.png" />
+      <file href="mobile/5uB3YtZdvIS.png" />
+      <file href="mobile/5WEkMQe8iWe.png" />
+      <file href="mobile/6DsiEqM2hkt.png" />
+      <file href="mobile/6kWIEEhQbMU.png" />
+      <file href="mobile/60eGonGfweQ.png" />
+      <file href="story_content/5VAuyUgKRz8_44100_40_0.mp3" />
+      <file href="mobile/6rDpMjfJod1.png" />
+      <file href="mobile/6N4L1R4GQGG.png" />
+      <file href="story_content/62TDr6uwmKo_44100_40_0.mp3" />
+      <file href="mobile/6Pc8XlZNJLo.png" />
+      <file href="mobile/5fJryYchP22.png" />
+      <file href="mobile/5pTTYlKYHYd.png" />
+      <file href="mobile/6eXoudWsYrC.png" />
+      <file href="mobile/6RN4NTHLG6W.png" />
+      <file href="mobile/6IhdT4KoGtv.png" />
+      <file href="mobile/6ccT2vh1Qy7.png" />
+      <file href="mobile/6h3fD9l1ufv.png" />
+      <file href="mobile/5zR3yNdp43g.png" />
+      <file href="mobile/6qo9k88zvK1.png" />
+      <file href="mobile/5hqMc93dRZc.png" />
+      <file href="mobile/5u2ed3fAv0Y.png" />
+      <file href="mobile/6pt57FJstvJ.png" />
+      <file href="mobile/6mCNlp5zrdf.png" />
+      <file href="mobile/6PO258GXLKJ.png" />
+      <file href="mobile/5YHNV1VyWmb.png" />
+      <file href="mobile/6LBjEVQnQG1.png" />
+      <file href="mobile/6dq6oSaMs1F.png" />
+      <file href="mobile/6OagvqaiPck.png" />
+      <file href="mobile/6ml5SYsgR5H.png" />
+      <file href="mobile/6TTdHEtTVYP.png" />
+      <file href="mobile/5XOKOYKGQ7Q.png" />
+      <file href="mobile/5iTo961YtoF.png" />
+      <file href="mobile/5kUPRyam8Zp.png" />
+      <file href="story_content/6AJqCy8Q3fT_44100_40_0.mp3" />
+      <file href="story_content/6D3LceXD3vM_44100_40_0.mp3" />
+      <file href="story_content/6XsVAacqzLI_44100_40_0.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/6XEgMWxYpZf.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5h06ldL0QLG.js" />
+      <file href="html5/data/js/5kNo0Bnik6C.js" />
+      <file href="html5/data/js/5pJ5lAjU0G9.js" />
+      <file href="html5/data/js/5rXZZSLkr3T.js" />
+      <file href="html5/data/js/64XaGd0ynDE.js" />
+      <file href="html5/data/js/6chl78rnzt5.js" />
+      <file href="html5/data/js/6DLFQhCQMoN.js" />
+      <file href="html5/data/js/6TZXDCcyP9n.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
