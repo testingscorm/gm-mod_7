@@ -20,7 +20,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6XEgMWxYpZf.png" />
+              <option name="html5_logo_url" value="mobile/6UhR9yXSSPF.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -52,7 +52,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1587,7 +1587,7 @@
       <links>
         <slidelink slideid="_player.5pDcdO6KcSx.6DLFQhCQMoN" displaytext="परिचय" expand="false" type="slide" />
         <slidelink slideid="_player.5pDcdO6KcSx.64XaGd0ynDE" displaytext="सीखने के उद्देश्य" expand="false" type="slide" />
-        <slidelink slideid="_player.5pDcdO6KcSx.6TZXDCcyP9n" displaytext="मिक्सिंग और स्माइज़िंग वीडियो" expand="false" type="slide" />
+        <slidelink slideid="_player.5pDcdO6KcSx.6TZXDCcyP9n" displaytext="प्राइमरी और सेकेंडरी पैकेजिंग वीडियो" expand="false" type="slide" />
         <slidelink slideid="_player.5pDcdO6KcSx.5rXZZSLkr3T" displaytext="प्रश्न 1" expand="false" type="slide" />
         <slidelink slideid="_player.5pDcdO6KcSx.5pJ5lAjU0G9" displaytext="प्रश्न 2" expand="false" type="slide" />
         <slidelink slideid="_player.5pDcdO6KcSx.5h06ldL0QLG" displaytext="प्रश्न 3" expand="false" type="slide" />
